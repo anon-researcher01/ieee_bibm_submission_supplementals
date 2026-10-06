@@ -2,7 +2,7 @@
 
 Supplementary materials for:
 
-> Paladugu, R., and Alam, F. F., "Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19," in Proc. IEEE > Int. Conf. Bioinformatics and Biomedicine (BIBM), 2026.
+> Paladugu, R., and Alam, F. F., "Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19," in Proc. IEEE Int. Conf. Bioinformatics and Biomedicine (BIBM), 2026.
 
 ---
 
