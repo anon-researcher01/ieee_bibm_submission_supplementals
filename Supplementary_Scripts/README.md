@@ -20,6 +20,7 @@ with NVIDIA A100 (40 GB) GPUs under SLURM.
 | `leads_vs_p40.py build` | `p40_inputs/` FASTA files | Prepares one binder:p40 FASTA per lead for ColabFold |
 | `run_p40_the institutional HPC cluster.sbatch` | ColabFold predictions in `p40_out/` | Submits 5-model/3-recycle ColabFold-Multimer jobs on the institutional HPC cluster |
 | `collect_p40_robust.py` | `../Supplementary_S3_p40_selectivity.csv` | Parses ColabFold outputs, calls reference `ipsae.py`, writes S3 |
+| `rosetta_conventional.py` | `../Supplementary_S8_conventional_rosetta_geometry.csv` | Ranks conventional designs by ipSAE, runs Rosetta `InterfaceAnalyzerMover` on the top 20 with retained structures; CPU-only, no GPU |
 
 ---
 
