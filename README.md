@@ -2,8 +2,7 @@
 
 Supplementary materials for:
 
-> Anonymous, "Computational De Novo Design of Miniprotein Candidate
-> Neutralizers Targeting the IL-23 Cytokine Subunit p19," IEEE BIBM 2026.
+> Paladugu, R., and Alam, F. F., "Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19," in Proc. IEEE > Int. Conf. Bioinformatics and Biomedicine (BIBM), 2026.
 
 ---
 
@@ -18,6 +17,7 @@ Supplementary materials for:
 | `Supplementary_S5_conventional_972_scores.tsv` | AF2-initial-guess ipSAE scores for all 972 conventional designs; backs the 0/972 central negative result | §IV-B, Fig. 3 |
 | `Supplementary_S6_colabfold_artifact.tsv` | Paired single-sequence ColabFold vs AF2-initial-guess pLDDT for 50 matched designs; backs the 56-point artifact claim | §IV-A, Fig. 2 |
 | `Supplementary_S7_top50_p19_p40_scores.tsv` | Top-50 curated conventional designs rescored against both p19 and p40 | §IV-B ("best p19 0.235, best p40 0.147") |
+| `Supplementary_S8_conventional_rosetta_geometry.csv` | AlphaFold-independent interface geometry (dSASA, shape complementarity, interface H-bonds) for the 20 top-ranked conventional designs; backs Table IV | §IV-B, Table IV |
 
 ## Scripts
 
